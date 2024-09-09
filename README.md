@@ -1,8 +1,59 @@
-# React + Vite
+<h1 style= "text-center"> React Portfolio </h1>
+ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+ 
+## Description 
+ 
+  A portfolio of my Acomplishments
+ 
+
+
+## Installation 
+ 
+   N/A
+
+## Usage 
+
+
+1. Clone the repo from github (link in the contact section) 
+2. Run "node index.js" in the terminal
+
+
+**Additional Usage Info:** 
+   
+
+## Testing 
+
+  
+
+## Contributions 
+
+
+
+## License 
+ 
+  This project is licensed under MIT License. For more information please click on the badge below: 
+  
+ 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ 
+## Contact 
+ 
+**For Questions, please reach out to me on Github or by Email** 
+
+  - Github: 
+   [JackRozov](https://github.com/JackRozov)
+
+  - Email Address: 
+  [jackrozovsky@gmail.com](mailto:jackrozovsky@gmail.com)
+
+  ### Project Links: 
+
+ - [Github Repository](ttps://github.com/JackRozov/React-Portfolio-challenge)
+
+ - [Deployed Site](https://react-portfolio-challenge-zehn.onrender.com)
